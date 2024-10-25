@@ -12,6 +12,5 @@ export class CreateBookDto {
 
     @IsNumber()
     publishYear: number;
-
-
+    
 }
